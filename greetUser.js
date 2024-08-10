@@ -4,4 +4,4 @@ function greetUser(name) {
   return greeting;
 }
 
-greetUser("ETH Global Team");
+greetUser("Repo Rewards");
